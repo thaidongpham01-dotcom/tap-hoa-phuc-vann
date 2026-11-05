@@ -10,5 +10,17 @@
   "theme_color": "#0f5132",
   "id": "taphoaphucvan",
   "description": "Ứng dụng quản lý và mua sắm của Tạp Hóa Phúc Văn",
-  "lang": "vi"
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }

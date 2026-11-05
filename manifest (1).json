@@ -1,0 +1,13 @@
+{
+  "background_color": "#0f5132",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Tạp Hóa Phúc Văn",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Tạp Hóa Nhỏ",
+  "start_url": "/",
+  "theme_color": "#0f5132",
+  "id": "taphoaphucvan",
+  "description": "Ứng dụng quản lý và mua sắm của Tạp Hóa Phúc Văn"
+}
